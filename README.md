@@ -7,27 +7,9 @@ El proyecto está dividido en frontend (React + Vite) y backend (Node.js + Expre
 
 ---
 
-## 🚀 Demo en producción  
-
-- 🔹 Frontend: https://api-gastos-sandy.vercel.app  
-- 🔹 Backend: https://api-de-gastos.onrender.com  
 
 ---
 
-## 📸 Screenshots de la Interfaz  
-
-### 🔐 Perfil / Autenticación  
-![Perfil](https://raw.githubusercontent.com/fauriorrego-create/Api-de-Gastos/main/app/public/img/perfil.png)
-
----
-
-### 🔒 Acceso restringido  
-![Acceso restringido](https://raw.githubusercontent.com/fauriorrego-create/Api-de-Gastos/main/app/public/img/restringido.png)
-
----
-
-### 📊 Dashboard de gastos  
-![Dashboard](https://raw.githubusercontent.com/fauriorrego-create/Api-de-Gastos/main/app/public/img/dashboard.png)
 
 ---
 
@@ -37,7 +19,7 @@ El proyecto está dividido en frontend (React + Vite) y backend (Node.js + Expre
 ## ⚙️ Instalación  
 
 ### 🔹 Clonar el repositorio  
-git clone https://github.com/fauriorrego-create/Api-de-Gastos.git  
+git clone https://github.com/picadoJR/efect-gastos.git 
 cd Api-de-Gastos  
 
 ### 🔹 Backend  
@@ -191,7 +173,7 @@ T4_REACT/
 
 Crear un archivo `.env` dentro de la carpeta backend:  
 
-PORT=3000  
+PORT=4000  
 MONGO_URI=tu_cadena_de_conexion  
 JWT_SECRET=tu_clave_secreta  
 
@@ -199,13 +181,13 @@ JWT_SECRET=tu_clave_secreta
 
 ## 🔗 Repositorio  
 
-https://github.com/fauriorrego-create/Api-de-Gastos  
+https://github.com/picadoJR/efect-gastos.git
 
 ---
 
 ## 👨‍💻 Autor  
 
-**Andres Orrego**  
+reinaldo picado  
 
 ---
 
