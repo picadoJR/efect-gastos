@@ -12,13 +12,6 @@ app.use(express.json());
 // Puerto - IMPORTANTE: Usa process.env.PORT para Render
 const PORT = process.env.PORT || 4000;
 
-// Importar rutas (ajusta las rutas según tu estructura)
-const gastoRoutes = require("./routes/gastoRoutes");
-const userRoutes = require("./routes/userRoutes");
-
-// Usar rutas
-app.use("/api/gastos", gastoRoutes);
-app.use("/api/users", userRoutes);
 
 // Ruta de prueba
 app.get("/", (req, res) => {
